@@ -2,13 +2,13 @@ import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
 import ProjectItem from './ProjectItem';
-import Mesh from '@/public/assets/skills/mesh.jpg'
-import Gesture from '@/public/assets/skills/handgesture.jpg'
-import Solar from '@/public/assets/skills/light.jpg'
-import jobFinder from '@/public/assets/skills/jobfinder.jpg'
-import chatApp from '@/public/assets/skills/chatapp.jpg'
-import weatherApp from '@/public/assets/skills/weather.jpg'
-import mobileStore from '@/public/assets/skills/mobilestore.png'
+import Mesh from '@/public/assets/mesh.jpg'
+import Gesture from '@/public/assets/handgesture.jpg'
+import Solar from '@/public/assets/light.jpg'
+import jobFinder from '@/public/assets/jobfinder.jpg'
+import chatApp from '@/public/assets/chatapp.jpg'
+import weatherApp from '@/public/assets/weather.jpg'
+import mobileStore from '@/public/assets/mobilestore.png'
 const Projects = () => {
   return (
     <div id='projects' className='w-full'>
