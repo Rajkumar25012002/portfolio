@@ -9,8 +9,8 @@ import Appian from '@/public/assets/skills/appian.png'
 import Java from '@/public/assets/skills/java.png'
 import Kubernetes from '@/public/assets/skills/kubernetes.png'
 import Git from '@/public/assets/skills/git.png'
-import Sql from '@/public/assets/skills/sql.png'
-import Mongo from '@/public/assets/skills/mongo.png'
+import Sql from '@/public/assets/skills/Sql.png'
+import Mongo from '@/public/assets/skills/Mongo.png'
 
 
 

@@ -8,7 +8,7 @@ import Solar from '@/public/assets/light.jpg'
 import jobFinder from '@/public/assets/jobfinder.jpg'
 import chatApp from '@/public/assets/chatapp.jpg'
 import weatherApp from '@/public/assets/weather.jpg'
-import mobileStore from '@/public/assets/mobileStore.png'
+import mobileStore from '@/public/assets/mobileStore.jpg'
 const Projects = () => {
   return (
     <div id='projects' className='w-full'>
